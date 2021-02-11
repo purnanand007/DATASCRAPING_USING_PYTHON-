@@ -19,12 +19,12 @@ count = 5000 # number of profiles you want to get
 account = "sabyasachiofficial"  # account from
 page = "followers"  # from following or followers
 
-yourusername = "iscraper5" #your IG username
-yourpassword = "scraper@123"  #your IG password
+yourusername = "****" #your IG username
+yourpassword = "****"  #your IG password
 
 def login(driver):
-    username = "iscraper5"   # Your username
-    password = "scraper@123"   # Your password
+    username = "******"   # Your IG username
+    password = "*****"   # Your IG  password
 
     # Load page
     driver.get("https://www.instagram.com/accounts/login/")
